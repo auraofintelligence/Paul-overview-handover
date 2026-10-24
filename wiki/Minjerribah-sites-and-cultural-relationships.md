@@ -36,11 +36,11 @@ The practical questions occur at every step. Who is entitled to tell a story? Wh
 
 Those questions connect directly with the screen network, oral history work, living twin and AI tools. A broad consent form cannot answer every later use. A specific record of what was agreed, with whom and for which purpose gives people something concrete to revisit.
 
-## What I would ask Paul to support
+## Possibilities you might choose to explore
 
-The first local step is a conversation with the people actually involved at each proposed place. It would establish interest, priorities, authority and a useful next piece of work. Paul could help connect relevant council officers, cultural organisations, potential service partners and resources where the participants want that support.
+The first local step is a conversation with the people actually involved at each proposed place. It would establish interest, priorities, authority and a useful next piece of work. You could help connect relevant council officers, cultural organisations, potential service partners and resources where the participants want that support.
 
-The leadership invitation is to help these relationships become workable and properly resourced. The programme's coherence comes from the useful connections between places while each place keeps its own voice and decisions.
+These proposals would be part of the optional stream of inputs alongside your usual work. You choose which interest you and whether to explore them further. The programme's coherence comes from useful connections between places while each place keeps its own voice and decisions.
 
 ---
 

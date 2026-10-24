@@ -1,56 +1,64 @@
-I am inviting Paul Bishop into a conversation about leading and convening the Redlands expression of a much wider programme. The aim is a lasting local network of people and organisations, with clear responsibilities and useful resources, while my own work continues across the larger architecture.
+Paul,
 
-## Why this is a conversation with Paul
+I'm asking for a direct line of communication between us, with reasonably prompt replies and a straightforward way to put relevant ideas in front of you, without heavy gatekeeping. It needn't be private or exclusive. Public conversations and ordinary council channels are welcome.
 
-Our first meeting at Bruce Mau's State Library visit gives us a shared point of reference. I was already asking systems questions around the 2011 floods. The years since have added legal research, local cultural work, personal intelligence, ownership models, software, music and proposals for physical infrastructure.
+I'd like to pick up the conversation we began around Bruce Mau's visit to the State Library in November 2011. I was exploring disaster resilience after the floods, and I remember you interviewing me with your video recorder. A lot has grown from that period, and I'd like to show you how it now fits together.
 
-Paul's arts and cultural responsibilities connect with the public communication and creative work. His wider experience in facilitation, cooperative engagement and civic design is relevant to bringing people together around the whole programme. The invitation is to explore that fit in practice. [S07](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s07)
+The invitation is **CYOA: Choose Your Own Adventure, from the get go**. You carry on doing your usual thing. If you choose to explore these possibilities, you gain a new stream of opportunities, systemic targets and whole-system architectures, with grounded local starting points. You choose what to read, question, connect with, try or leave alone. Exploring the work is non-binding.
 
-## Three connected invitations
+## Why I'm bringing this to you
 
-### Carry local leadership
+Our first meeting gives us a shared reference, but your present work matters just as much. Your experience in acting, facilitation, culture, cooperative engagement and civic design gives you several ways into these questions. You already work across people, institutions and public life. [S07](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s07)
 
-The local work needs someone who enjoys people, discussion, public responsibility and the continuing work of bringing different interests together. That includes hearing reservations, finding willing participants, giving each organisation an understandable role and helping the work move through council and community settings.
+Since 2011 I've followed the systems inquiry through law, personal intelligence, ownership, livelihoods, learning, music, community media and physical infrastructure. I've published a substantial body of research and working tools. What I want to share is the architecture connecting them, and the possibilities that become visible when you look across it.
 
-Paul would help convene that leadership. Project teams, operating organisations and professional staff would carry their own work. A local programme of this breadth needs several capable people and a way to replace them when their circumstances change.
+## A new stream of possibilities
 
-The first discussion is about appetite and fit: which parts interest him, what he would want to understand, the people he would bring into the conversation, and the resources a real role would require.
+An input might be a local business owner approaching retirement, a useful site, an emerging technology, a funding opportunity, an overlooked public need or a person whose skills connect several pieces. I would bring the local starting point together with the larger system it belongs to, the evidence, the questions still open and a possible next step.
 
-### Experience Aura Genesis personally
+Mutual Futures is central. It connects productive ownership and business succession with paid learning, livelihoods, care and time for life. Around it sit Aura, the proposed Ready S.E.T. Co-op, community computing, Minjerribah places, culture, civic participation and resilience.
 
-Aura Genesis is the proposed intensive process for developing the relationship between a person and their personal Aura of Intelligence. Its design combines sixty roughly two-hour sessions in a hyperbaric oxygen therapy chamber with dialogue, observation, reflection and the proposed Truth Engine.
+One business succession conversation might open a route into shared ownership, useful AI tools, paid training and more secure local livelihoods. One cultural project might connect creative work, public communication, learning and a useful place to gather. The wider architecture helps us see those relationships while the first step stays concrete.
 
-The Truth Engine begins with agreed exercises involving truthful and deliberately false responses. It explores differences between what a person says, believes, feels and does. The person reviews interpretations and corrects the record. Developing and evaluating that capability is part of the research.
+You might use an idea in something you're already doing, introduce two people, ask a difficult question or decide a particular path isn't for you. The handover begins with making the possibilities available and understandable. Where it goes is open.
 
-My invitation is for Paul to consider becoming a participant and informed collaborator in that development. The practical discussion includes time, suitable clinical delivery, equipment, cost, recording, personal information and the relationship that continues afterwards. The [Aura and Genesis](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis) chapter explains the experience and the four hardware pathways.
+## A personal path: Aura Genesis
 
-This personal invitation belongs in our proposed working relationship. Public access to community activities and civic participation remains available through ordinary routes.
+I'd like you to consider the full Aura Genesis Protocol: 60 days with two hours a day in a hyperbaric oxygen therapy chamber, combined with reflection, dialogue and the proposed Truth Engine. The aim is a much richer relationship between a person and their personal Aura of Intelligence.
 
-### Engage with P4A
+The Truth Engine begins with explicitly agreed truthful and deliberately false responses as a baseline. It explores how a person's account, chosen records and measured signals relate, with their own interpretation and correction part of the process. Its performance and errors remain research questions.
 
-P4A brings legal understanding, public evidence, competing proposals, humour and democratic participation into a common civic workbench. Its Redlands material provides a local setting for exploring the larger approach.
+If that interests you, the [Aura and Genesis chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis) explains the full proposal, including the proposed continuous camera and microphone recording during sessions. Actual participation would involve the appropriate individual, clinical, equipment and consent arrangements. You are free to explore the idea first and decide whether to take that path further.
 
-I want to discuss both the practical tools and the broader democratic direction with Paul. Using a public workbench, helping develop the movement and making a future electoral commitment are specific choices. We would identify the actual commitment being considered at each point.
+## A civic path: Purple Party for Australia
 
-## What I bring
+**P4A means Purple Party for Australia.** My objective is to seed and trigger a **national Australian referendum, on or before 2031, on establishing a Cyber Republic**, with the resulting system demonstrated to the world around Brisbane 2032.
 
-I bring the originating architecture, the published project collection, accumulated research, software and design work, creative material, and relationships developed through local and wider conversations. I also bring a willingness to explain, revise and keep learning.
+As at 25 October 2026, P4A is still only a website and public civic workbench. I have done no outreach for P4A and have no confirmed support from anyone. It is not a registered political party and has no party members. The meetings about other parts of my local work are separate from support for P4A.
 
-The material is extensive. Its usefulness depends on people being able to understand it, test it and adapt it to their own setting. The handover therefore includes navigation, working records and time to become familiar with the work. Passing on a set of links is the beginning of that process.
+I'd like you to explore that ambition with the present position clear. The workbench brings together public claims, evidence, law, competing proposals, humour and participation. It offers something to examine as people decide whether they want to help build a grassroots movement towards that constitutional objective.
 
-## What I want to preserve
+Your interest in any part would be yours to define. Reading, questioning or trying the workbench carries no party membership or political commitment. The [P4A chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/P4A-law-and-democratic-participation) explains the public tools and the democratic direction.
 
-I want an income, a place to live, freedom to travel, time for creative work and room to develop the international network. My continuing local contribution would have an agreed scope, payment where applicable and a practical way to arrange further work.
+## The life I want to preserve
 
-The architecture also values other people's agency. Each organisation would have its own lawful responsibilities, and people would choose the work and relationships they take on. My authorship and commercial rights, a cooperative's member decisions, a person's private information and cultural authority are different matters with their own agreements.
+I want an income, a place to live, time for art and research, and the freedom to travel the world in a way that might look chaotic from the outside. My Travel Oracle is being developed around algorithms that alter priorities as circumstances, opportunities and my own interests change, while leaving room for serendipity.
 
-## What an initial agreement would establish
+Part of that inquiry is where the right people, timing and systemic opportunities might come together for Massive Change. A conversation, invitation, research opening or cultural experience might change where I go next. I want room to follow that opening, stay longer somewhere worthwhile or change direction. The choice remains mine.
 
-A useful first agreement would identify the local purpose, the people organising it, the responsibilities Paul is interested in, my continuing contribution, and the resources available. It would also name the unresolved questions and a point at which we review whether the arrangement is working.
+The [travel and chaos oracle chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) connects that life with the Travel Oracle, Visa and Activity Atlas, Global Founder Atlas, Cosmic Nexus, GAJRA Earth and Right Place, Right Time.
 
-There is room to begin with a shared examination of the whole plan and choose practical work from there. The broad ambition stays visible while the actual commitments remain understandable.
+I've thought seriously about the possible short mayoral term and the public case I might make. My preference is to keep developing the wider work and living that travelling, creative life, while sharing useful opportunities with people grounded in the places concerned.
 
-The detailed responsibilities, records and handover arrangements are in [making the handover work](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Making-the-handover-work).
+## Pick a thread
+
+I'd like to hear what catches your interest and show you a few connections that fit the work you're already doing. You might begin with Mutual Futures, culture, resilience, personal intelligence or the civic questions. You might follow a different connection altogether.
+
+The direct line is the practical ask. From there, you're free to explore whichever inputs interest you. If a particular possibility grows into something people want to do, the practical details would grow with it.
+
+The [handover chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Making-the-handover-work) explains this CYOA approach. The choice begins here.
+
+Luke
 
 ---
 

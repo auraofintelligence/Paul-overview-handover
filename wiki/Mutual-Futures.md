@@ -42,9 +42,9 @@ The proposal reaches towards an adequate income and a more generous life. The cu
 
 C-Hours sit alongside this work as records of freely contributed human time. They have no fixed dollar value and create no claim on a mutual's assets or distributions. Paid work, ownership, money and voluntary contribution retain their own records. [The reciprocity chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/C-Hours-and-reciprocity) explains this important distinction.
 
-## What Paul would help carry
+## A path you might choose to explore
 
-The local invitation is to help bring willing people into a serious conversation about ownership, succession and livelihoods. That includes local businesses, workers, carers, educators, community organisations and people whose present circumstances leave them outside conventional opportunities.
+If this interests you, one possible path is a conversation about ownership, succession and livelihoods with people who want to explore it. That includes local businesses, workers, carers, educators, community organisations and people whose present circumstances leave them outside conventional opportunities.
 
 Council has relevant relationships, information and convening capacity. A mutual enterprise would have its own governance, operations and accounts. Any council involvement would have a defined public purpose and the ordinary decisions that apply to public resources.
 

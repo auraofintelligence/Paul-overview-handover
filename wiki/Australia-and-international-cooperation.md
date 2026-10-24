@@ -47,7 +47,7 @@ Brisbane 2032 also creates a long period of international attention. The useful 
 
 The local programme gives the global argument a place to learn. The international programme offers relationships and knowledge that may help local work. Each keeps its own responsibilities and resources.
 
-This is why my preference is for strong local continuity while I develop the wider network. Paul would have a meaningful local role with other participants. I would retain the freedom to pursue the larger relationships and bring useful connections back into the work.
+This is why my preference is to share useful local possibilities while I develop the wider network. You would keep doing your usual work and choose which inputs to explore. My chaos oracle would help alter travel priorities as openings for Massive Change emerge, while leaving room for serendipity. Useful knowledge and connections could then flow back into grounded local opportunities. [The travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains that relationship.
 
 ---
 

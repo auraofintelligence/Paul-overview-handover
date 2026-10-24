@@ -2,7 +2,7 @@ The work has a history longer than the recent websites. Understanding that histo
 
 ## 2011 and the systems question
 
-After the south-east Queensland floods, I was investigating disaster resilience and the relationships between people, infrastructure and institutions. The Bruce Mau visit was part of that period. My recollection of meeting Paul belongs here, in November 2011.
+After the south-east Queensland floods, I was investigating disaster resilience and the relationships between people, infrastructure and institutions. The Bruce Mau visit was part of that period. My recollection of meeting you belongs here, in November 2011.
 
 The State Library itself had reopened in February 2011 after the floods. The setting was part of the regional experience of disruption and recovery. [S06](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s06)
 
@@ -44,7 +44,7 @@ Some periods of quiet work also reflected personal circumstances. The relevant p
 
 ## What the history offers the handover
 
-The record gives Paul and other readers specific work to examine: sources, dates, designs, community contributions and successive revisions. It also shows where an idea has persisted through different names and technologies.
+The record gives you specific work to examine: sources, dates, designs, community contributions and successive revisions. It also shows where an idea has persisted through different names and technologies.
 
 The next step in this story is a proposed local leadership arrangement, with work shared among people who want to carry it. My own next chapter includes the wider architecture, income, travel, art, public communication and international relationships.
 

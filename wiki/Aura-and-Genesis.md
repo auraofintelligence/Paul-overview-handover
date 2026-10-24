@@ -12,11 +12,11 @@ One current spatial scheme has 2,016 facets, or 4,032 addresses when inside and 
 
 ## The full Genesis invitation
 
-My invitation to Paul concerns the full [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), rather than a brief introductory demonstration. The proposed intensive programme combines 60 two-hour HBOT sessions with guided reflection, personal records and the developing Truth Engine. The present material includes 30 chapters and a 60-day reading and learning sequence.
+My invitation to you concerns the full [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), rather than a brief introductory demonstration. The proposed intensive programme combines 60 two-hour HBOT sessions with guided reflection, personal records and the developing Truth Engine. The present material includes 30 chapters and a 60-day reading and learning sequence.
 
 HBOT means hyperbaric oxygen therapy. It involves a person in a pressurised environment breathing oxygen under the arrangements appropriate to the equipment and clinical setting. The protocol proposes a mask-based Personal Atmosphere Delivery System. The proposed two-hour programme is a design specification for discussion with qualified providers, rather than a treatment recommendation for every participant.
 
-For Paul, a serious conversation would cover the purpose, time involved, individual suitability, clinical responsibility, equipment, costs, recording, data handling and the ability to stop. Participation remains his personal choice. Access to community work or civic participation does not depend on completing Genesis.
+For you, a serious conversation would cover the purpose, time involved, individual suitability, clinical responsibility, equipment, costs, recording, data handling and the ability to stop. Participation remains your personal choice. Access to community work or civic participation does not depend on completing Genesis.
 
 ## What the Truth Engine is trying to investigate
 

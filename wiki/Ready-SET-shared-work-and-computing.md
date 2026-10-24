@@ -42,7 +42,7 @@ An interface to Guardians IMS or another coordination system is a proposed techn
 
 A useful first version would have a named organising group, a short list of services people want, one host or working location, and a person paid or otherwise explicitly supported to coordinate the work. A basic operating record would show tasks, money, time, equipment, permissions and outcomes.
 
-For Paul, the local leadership role is to help make those relationships durable. The computing node becomes one useful part of a working community system, with the people, purpose and operating responsibilities visible around it.
+For you, these are possible inputs alongside your existing work. You might follow a connection, question the proposal or introduce somebody with relevant experience. The computing node is one path through the wider architecture, with further involvement chosen by the people interested in developing it.
 
 ---
 

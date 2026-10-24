@@ -40,7 +40,7 @@ Related space-weather and earthquake material explores automated alerts and a go
 
 The Cultural Intelligence Node, living twin, screen network and learning programmes could help people work with environmental data and understand uncertainty. Universities, researchers, instrument makers and space organisations would be prospective collaborators for larger studies.
 
-Paul's proposed contribution is to support an informed public culture and useful local relationships. A scientific claim would stand on its evidence, rather than on a councillor's support for opening the conversation.
+One path you might choose is helping people examine the research and connect it with useful local questions. A scientific claim would stand on its evidence as we explore the possibilities together.
 
 ---
 

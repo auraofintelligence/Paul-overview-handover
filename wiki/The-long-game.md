@@ -6,12 +6,12 @@ These dates help organise attention and preparation. The work at each stage stil
 
 | Date or period | Public event or programme horizon | Meaning for this work |
 |---|---|---|
-| 23 November 2011 | Bruce Mau's State Library lecture | The setting of my first meeting with Paul |
+| 23 November 2011 | Bruce Mau's State Library lecture | The setting of our first meeting |
 | 16 March 2027 | Beginning of the final part of the present council term | The current legal route for filling a mayoral vacancy changes |
 | 2028 | Next ordinary local government election | A council continuity point for any local programme |
 | 22 July 2028 | Total solar eclipse crossing part of Australia | A possible occasion for public science, culture and shared attention |
 | 25 November 2030 | Another Australian total solar eclipse | A further occasion within a sequence of preparation |
-| 2031 | My proposed P4A referendum target | An ambition requiring a national public and constitutional process |
+| On or before 2031 | Purple Party for Australia's objective to seed and trigger a national Australian referendum on establishing a Cyber Republic | The constitutional horizon for the proposed grassroots movement |
 | 23 July-8 August 2032 | Brisbane Olympic Games | A period of international attention and a proposed civic demonstration horizon |
 | 24 August-5 September 2032 | Brisbane Paralympic Games | A related focus on access, participation and capability |
 | 13 July 2035 | Live Aid's 50th anniversary | The central date for my proposed art, music and values gathering |

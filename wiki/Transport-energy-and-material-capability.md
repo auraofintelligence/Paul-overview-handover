@@ -42,4 +42,4 @@ For the handover, a useful early contribution would be a shared project brief fo
 
 ---
 
-[Previous: Mayoral options and personal agency](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mayoral-options-and-personal-agency) · [Home](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Home) · [Next: Disaster resilience and generation cities](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Disaster-resilience-and-generation-cities)
+[Previous: Travel agency and the chaos oracle](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) · [Home](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Home) · [Next: Disaster resilience and generation cities](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Disaster-resilience-and-generation-cities)

@@ -23,7 +23,20 @@ The descriptions below explain why a project belongs here. They do not announce 
 | [C-Hour introduction](https://auraofintelligence.github.io/C-Hour-introduction/) | A public route into contribution-time recording; the definition in this wiki governs this handover |
 | [Ready S.E.T. Cultural Intelligence Node](https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node) | Shared work, training, computing and community capability |
 | [Aura Disaster Resilience](https://github.com/auraofintelligence/aura-disaster-resilience) | Community working arrangements and the connection with formal disaster structures |
-| [P4A](https://p4a.xyz/) · [source](https://github.com/auraofintelligence/p4a-xyz-cinema) | Civic evidence, participation, public decisions and the constitutional horizon |
+| [P4A: Purple Party for Australia](https://p4a.xyz/) · [source](https://github.com/auraofintelligence/p4a-xyz-cinema) | The current website and public civic workbench, with the objective of seeding and triggering a national Australian Cyber Republic referendum on or before 2031 |
+
+## Travel, timing and wider connections
+
+| Project | Place in the system |
+|---|---|
+| [Strange But True Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/) | Developing personal context and decision records for a chaos oracle whose algorithms alter priorities and allow serendipity |
+| [Australian Visa and Activity Atlas](https://auraofintelligence.github.io/Australian-visa-activity-atlas/) | Source-led comparison of entry and activity permissions for an Australian traveller |
+| [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/index.html) | Funding, research, residencies, paid pilots and other opportunities, with a preference for preserving ownership |
+| [Right Place, Right Time](https://auraofintelligence.github.io/right-place-right-time/index.html) | Patronage and support ideas around my mobility and useful work |
+| [Cosmic Nexus connections](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html) | Connections among travel, culture, science questions and neighbouring civic projects |
+| [GAJRA Earth concept site](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html) | A separate earlier concept site in the developing GAJRA Earth family |
+
+The [travel and chaos oracle chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains how these tools relate to an evolving life of travel, discovery and opportunities for Massive Change.
 
 ## Minjerribah places and culture
 

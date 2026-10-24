@@ -1,16 +1,16 @@
-The relationships in this chapter connect the programme with public responsibilities at different levels. I have met Paul Bishop, Peter Mitchell, Julie Talty, Amanda Stoker and Henry Pike at events or in their offices about aspects of the local macro plan. The account of those conversations is mine.
+The relationships in this chapter connect the programme with public responsibilities at different levels. As well as our first meeting, I have met Peter Mitchell, Julie Talty, Amanda Stoker and Henry Pike at events or in their offices about aspects of the local macro plan. The account of those conversations is mine.
 
 Their public roles help explain why those conversations matter. A meeting, a positive response or a shared interest has a different status from an agreed partnership, funding decision or endorsement of the whole programme. Kevin Rudd and Milton Dick belong to the wider relationship horizon; I am not claiming an existing relationship with either through this handover.
 
 Public roles below are dated to 24 October 2026.
 
-## Paul Bishop: local continuity, culture and convening
+## Your work: culture, facilitation and local relationships
 
-Paul represents Division 10, Birkdale and Thorneside, and was first elected to Redland City Council in 2012. His portfolio is Arts, Culture and Heritage. His public profile combines acting with facilitation, co-design, collective impact, applied democracy and ecological sustainability. His listed connections include Arts Evolution, the Queensland Social Enterprise Council and the Placemaking Leadership Council. [S07](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s07) [S08](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s08)
+You represent Division 10, Birkdale and Thorneside, and were first elected to Redland City Council in 2012. Your portfolio is Arts, Culture and Heritage. Your public profile combines acting with facilitation, co-design, collective impact, applied democracy and ecological sustainability. Your listed connections include Arts Evolution, the Queensland Social Enterprise Council and the Placemaking Leadership Council. [S07](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s07) [S08](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s08)
 
-That history helps explain the proposed relationship. He brings experience with public rooms, creative work, institutions and collaborative processes. His arts and heritage responsibilities connect with the screen network, local stories, museum relationships and the proposed hubs. His broader interests connect with Mutual Futures and the participatory work.
+That history helps explain why I want to share this with you. You bring experience with public rooms, creative work, institutions and collaborative processes. Your arts and heritage responsibilities connect with the screen network, local stories, museum relationships and the proposed hubs. Your broader interests connect with Mutual Futures and the participatory work.
 
-Our 2011 meeting gives the invitation a personal beginning. His long council experience gives it a present practical setting. The proposed role still needs a conversation about his interest, capacity and the people who would share the work.
+Our 2011 meeting gives the invitation a personal beginning. Your long council experience gives it a present practical setting. I am asking for a direct, reasonably prompt line of communication, through which you choose which possibilities to explore alongside your usual work.
 
 ## Julie Talty: environment, local operations and care
 
@@ -54,7 +54,7 @@ These are prospective avenues. An introduction would carry a defined request and
 
 ## A shared programme with distinct roles
 
-Paul is the main person I am approaching for local continuity. The wider group offers different responsibilities and relationships. A practical next conversation would ask what each person is interested in, what lies within their role, and which part of the programme has a credible next step. The aim is a working set of relationships with clear commitments, rather than a list of prominent names.
+I am bringing this CYOA invitation directly to you. You keep doing your usual work; if interested, you gain a new stream of opportunities, systemic targets and whole-system architectures with grounded local starting points. Each person chooses which possibilities to explore within their interests and role. Any further involvement follows that choice.
 
 ---
 

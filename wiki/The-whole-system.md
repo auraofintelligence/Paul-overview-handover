@@ -1,5 +1,7 @@
 The whole system connects personal agency with shared productive capacity, public participation and the ability to continue through disruption. Joyful Responsible Abundance gives it a purpose. Mutual Futures is central to the ownership, livelihood and time arrangements through which that purpose enters daily life.
 
+The invitation into it is CYOA, Choose Your Own Adventure, from the beginning. You keep doing your usual work. If you choose to explore the architecture, you gain a new stream of opportunities and systemic targets with grounded local starting points. The exploration is non-binding.
+
 ## Begin with a person living one life
 
 A person experiences housing, income, health, learning, family responsibilities, public decisions and technology together. The proposal begins with that lived whole.
@@ -24,7 +26,7 @@ The relationships between them matter. A makerspace needs skills, tools, mainten
 
 ## Public understanding and decisions
 
-The screen and media network is intended to make information, stories, opportunities and disagreement visible in everyday settings. P4A provides a civic workbench for following issues through evidence, law, proposals, public choices and observed results.
+The screen and media network is intended to make information, stories, opportunities and disagreement visible in everyday settings. P4A, Purple Party for Australia, is currently a website and public civic workbench. Its objective is to seed and trigger a national Australian referendum on establishing a Cyber Republic on or before 2031. Its [dedicated chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/P4A-law-and-democratic-participation) explains the present status and the constitutional ambition.
 
 The creative work gives people different ways into difficult questions. A film, song or game might open a conversation that a formal report would never reach. Sources and serious discussion remain available behind the public introduction.
 
@@ -60,7 +62,7 @@ Australia's proposed role in the international programme is to help people and c
 
 The useful common practices are understandable records, source identity, clear permissions, human relationships and ways to correct mistakes. A project record would identify its purpose, people, resources, decisions and results. A personal record would carry its owner's choices. A public statement would carry its evidence and date.
 
-This approach also shapes the handover. Paul would be invited to help convene the Redlands work. Operating organisations and teams would carry their actual responsibilities. My continuing role would be agreed in a way that supports the wider programme and preserves my own agency.
+This approach also shapes the handover. You would choose which inputs to explore alongside your existing work. If people later choose to develop a particular activity, its practical arrangements would follow that choice. My wider path includes travel through an evolving chaos oracle: algorithms alter priorities while preserving serendipity and my own choice of where to be. The [travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains the connection.
 
 The chapters that follow examine the parts in enough depth to discuss real choices. The directory is there for further exploration, rather than asking every reader to open the entire project collection at once.
 

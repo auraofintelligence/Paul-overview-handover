@@ -41,7 +41,7 @@ There is also a choice about what is worth recording. Informal care and everyday
 
 ## What this means for the handover
 
-Paul and any local group would be invited to use this reciprocal definition consistently in public explanations, software, grant material and operating agreements. A review of inherited material would identify older references to tokens, trading, cash conversion, redemption or financial backing and correct the explanation at its source.
+You and any local group would be invited to use this reciprocal definition consistently in public explanations, software, grant material and operating agreements. A review of inherited material would identify older references to tokens, trading, cash conversion, redemption or financial backing and correct the explanation at its source.
 
 Where an activity creates a paid role, its pay and conditions deserve their own agreement. Where a resource has a real cost, someone needs to budget for it. Where a programme offers support, the group needs to explain who provides it and how the decision is made.
 

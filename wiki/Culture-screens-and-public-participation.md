@@ -1,6 +1,6 @@
 Culture is how the programme becomes something people can experience, question and help shape. Music, film, storytelling, local news, sport and shared gatherings create forms of participation that a technical plan alone cannot provide.
 
-This is also the clearest connection with Paul's arts, culture and heritage portfolio and his background as an actor and facilitator. A public conversation about change needs people who understand how a story lands, who is missing from it and how a room becomes willing to participate.
+This is also the clearest connection with your arts, culture and heritage portfolio and your background as an actor and facilitator. A public conversation about change needs people who understand how a story lands, who is missing from it and how a room becomes willing to participate.
 
 ## A local screen and media network
 
@@ -36,7 +36,7 @@ The proposed July 2035 gathering brings music and art together with reflection o
 
 The same network could relay dated official advice and verified local service information when people need it. This would require a defined publishing process, backup arrangements and clear source attribution. The emergency information role belongs within agreed local disaster relationships.
 
-For the handover, the useful beginning is a small editorial and production team with a real audience and an achievable programme. Paul's contribution could be to help convene that team, strengthen its public relationships and protect the conditions for an open, capable cultural life.
+For the handover, the useful beginning is a small editorial and production team with a real audience and an achievable programme. your contribution could be to help convene that team, strengthen its public relationships and protect the conditions for an open, capable cultural life.
 
 ---
 

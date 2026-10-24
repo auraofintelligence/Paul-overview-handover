@@ -1,12 +1,16 @@
-This register separates public evidence, Luke's own project material and supplied background documents. It gives a reader a way to check the dated public claims and understand which version of the programme this handover follows.
+This register separates public evidence, my own project material and supplied background documents. It gives a reader a way to check the dated public claims and understand which version of the programme this handover follows.
 
 Public roles and project status are recorded as at **24 October 2026**. A changing role, law, funding programme or project timetable needs a fresh check when a real decision is made.
 
+The revision of **25 October 2026** explains my CYOA invitation, Choose Your Own Adventure, from the beginning. You continue your usual work and choose which inputs to explore. The invitation and exploration are non-binding.
+
+The same revision records P4A as Purple Party for Australia, with an objective to seed and trigger a national Australian referendum on establishing a Cyber Republic on or before 2031. Its present status is a website and public civic workbench, with no P4A outreach undertaken, no confirmed support from anyone, no party registration and no party members. This is my current account of my work and intention.
+
 ## How the sources are used
 
-The State Library, council, parliament, legislation and other institutional records support the public facts attributed to them. Luke's repositories and websites establish what his projects currently propose or demonstrate. They do not establish an external organisation's agreement.
+The State Library, council, parliament, legislation and other institutional records support the public facts attributed to them. My repositories and websites establish what my projects currently propose or demonstrate. They do not establish an external organisation's agreement.
 
-Luke's account of meeting Paul, the video interview and the other private meetings is personal recollection. The Mau lecture has a surviving public recording. The separate interview with Luke has not been located in the material reviewed.
+My account of our meeting, your video interview with me and the other meetings is personal recollection. The Mau lecture has a surviving public recording. The separate interview you made with me remains to be located.
 
 Supplied documents provide background and version history. They are summarised here; private contact details and the original attachments are not reproduced. Some older AI-assisted documents overstate technical capabilities or describe C-Hours commercially. The current reciprocal definition and the clarifications in this wiki govern the handover.
 
@@ -46,7 +50,7 @@ For the later development of Mau's work, useful additional sources are [MC24](ht
 
 ### S08
 
-[Redland City Council: councillor portfolio system](https://www.redlandscoasttoday.com.au/2025/04/council-implements-councillor-portfolio-system/), April 2025. Allocates Arts, Culture and Heritage to Paul, Environment and Local Laws to Julie, and Economic Development to Peter for the remainder of the term. Later council reporting in 2026 confirms the continuing portfolio context.
+[Redland City Council: councillor portfolio system](https://www.redlandscoasttoday.com.au/2025/04/council-implements-councillor-portfolio-system/), April 2025. Allocates Arts, Culture and Heritage to you, Environment and Local Laws to Julie, and Economic Development to Peter for the remainder of the term. Later council reporting in 2026 confirms the continuing portfolio context.
 
 ### S09
 
@@ -148,7 +152,7 @@ These identifiers point to documents reviewed for this overview, rather than pub
 | D02 | Joyful Responsible Abundance: Human and SI Alignment, revised version 5 | The relationship between worthwhile lives, responsibility, abundance and alignment |
 | D03 | C-Hour Joyful Responsible Abundance Plan, version 9 | Current reciprocal contribution explanation |
 | D04 | UNGA81 Joyful Responsible Abundance, refined version 10, September 2026 | Current international invitation, plural values, fair go, C-Hours and 2035 horizon |
-| D05 | Luke's 2024 CV after returning to Australia from India | Community work and practical background; private contacts omitted |
+| D05 | My 2024 CV after returning to Australia from India | Community work and practical background; private contacts omitted |
 | D06 | Nine Names Beside the Work, version 5 | Working names and the relationships among proposed facilities and capabilities |
 | D07 | Local Government Funding Inquiry Submission, supplied 24 October 2026 | Proposed Redlands pilot; submission is distinct from acceptance or funding |
 | D08 | Solar Swarm Satellite Research Report | Earlier network configuration and assumptions, read alongside the current public studio |
@@ -164,6 +168,9 @@ These identifiers point to documents reviewed for this overview, rather than pub
 | D18 | Space Weather Data IFTTT | Alert and forecasting ideas, treated as research goals |
 | D19 | Super-Computers of North Straddie | Earlier computing and capability brainstorming |
 | D20 | AI, Sands and Kardashev Civilization | Earlier material and long-range development brainstorming |
+| D21 | Global Chaos Theory Itinerary, supplied 25 October 2026 | Earlier travel scenarios and priority logic; the current intention is an evolving chaos oracle with changing algorithmic priorities, room for serendipity and openings for Massive Change |
+
+The six linked travel projects are collected in the [travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) and [project directory](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Project-directory). Their repository sources were read for this revision. They describe different tools and stages of development. Earlier dates, routes, market-stall descriptions or suggested opportunities in those sources are not treated as a fixed itinerary, completed activity or confirmed partnership.
 
 The 82 Claytons Road proposal, Genesis protocol and other project-specific papers are connected through the [Project directory](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Project-directory). Third-party books supplied during research remain third-party works and are not reproduced in this repository.
 

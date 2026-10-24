@@ -2,6 +2,8 @@
 
 A whole system overview and proposed handover from Luke Nathan Hayes to Paul Bishop, centred on Redlands and Minjerribah / North Stradbroke Island.
 
+I'm asking for a direct line of communication between us, with reasonably prompt replies and without heavy gatekeeping. It needn't be private or exclusive; public conversations and ordinary council channels are welcome.
+
 **[Read the Wiki](https://github.com/auraofintelligence/Paul-overview-handover/wiki)**
 
 Start with [the invitation to Paul](https://github.com/auraofintelligence/Paul-overview-handover/wiki/The-invitation-to-Paul), [where we met and Bruce Mau](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Where-we-met-and-Bruce-Mau), [the whole system](https://github.com/auraofintelligence/Paul-overview-handover/wiki/The-whole-system), [Mutual Futures](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mutual-Futures) and [making the handover work](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Making-the-handover-work).

@@ -1,10 +1,10 @@
-The meeting I remember with Paul took place during Bruce Mau's visit to the State Library of Queensland in November 2011. I was investigating disaster resilience after the south-east Queensland floods. Paul interviewed me with his video recorder. I would welcome the chance to find that recording if it survives.
+The meeting I remember with you took place during Bruce Mau's visit to the State Library of Queensland in November 2011. I was investigating disaster resilience after the south-east Queensland floods. You interviewed me with your video recorder. I would welcome the chance to find that recording if it survives.
 
 ## The event and date
 
 The third annual **Nielson Design Lecture** was held on **Wednesday 23 November 2011**, advertised for 7 pm, in **Auditorium 1 at the State Library of Queensland**, South Brisbane. Mau's **24 Hours to Massive Change** workshop followed on **24-26 November**. Contemporary reporting and the Library Board's annual report establish the visit. [S01](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s01) [S02](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s02) [S03](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s03)
 
-The library has an official recording of Mau's lecture, running 1 hour, 8 minutes and 56 seconds. It is a useful way to return to the room and the ideas of that visit. The recording located during this research is the lecture; the separate interview I remember with Paul remains something to locate. [S01](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s01)
+The library has an official recording of Mau's lecture, running 1 hour, 8 minutes and 56 seconds. It is a useful way to return to the room and the ideas of that visit. The recording located during this research is the lecture; the separate interview I remember with You remain something to locate. [S01](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s01)
 
 - [Watch the State Library lecture](https://www.youtube.com/watch?v=-3Zr3dsGq7I).
 - [Read the contemporary announcement and interview](https://www.indesignlive.com/articles/bruce-mau-on-massive-change).
@@ -26,7 +26,7 @@ My interest in resilience was already about relationships between systems. Flood
 
 That inquiry later widened into law, personal intelligence, ownership, learning, culture and long-term habitats. The scale increased, while the underlying question continued: how do people understand the systems shaping their lives, gain a meaningful say in them, and build greater capability together?
 
-This is the continuity I want to discuss with Paul. The current work is the result of years of development since that first conversation. The proposals in this wiki are my work; the history with Mau provides a shared reference for understanding where the inquiry was heading.
+This is the continuity I want to discuss with you. The current work is the result of years of development since that first conversation. The proposals in this wiki are my work; the history with Mau provides a shared reference for understanding where the inquiry was heading.
 
 ## Questions that keep the idea useful
 
@@ -36,7 +36,7 @@ Those questions shape Mutual Futures, the personal information architecture, the
 
 ## Returning to the conversation
 
-I would like to start with the simple human memory: we met while talking about Massive Change, before Paul's first election to council in 2012. The present invitation is to look at what developed from that period and decide whether there is a worthwhile next chapter together.
+I would like to start with the simple human memory: we met while talking about Massive Change, before your first election to council in 2012. The present invitation is to look at what developed from that period and decide whether there is a worthwhile next chapter together.
 
 The next chapter follows the actual sequence of work, including the later 2012-13 legal reading and the community contributions that were often out of public view.
 

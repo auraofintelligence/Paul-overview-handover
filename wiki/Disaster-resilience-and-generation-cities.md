@@ -47,9 +47,9 @@ Severe space weather has documented effects on power, communications, navigation
 
 Preparing useful local capability does not depend on a prediction of imminent global catastrophe. The large horizon provides a reason to investigate continuity seriously, while evidence determines which specific claims and design assumptions survive scrutiny.
 
-## What belongs in Paul's local role
+## A local path you might choose
 
-The immediate invitation is to carry the local relationships, practical resilience work and public inquiry. The planetary research and generation-city horizon remain visible in the whole system, with their own prospective collaborators and specialist work. Local activity can contribute to that horizon while delivering something useful for people living here now.
+The immediate invitation is to explore the possibilities alongside your usual work. You might choose an everyday resilience question, follow a source or connect the idea with people already doing related work. The planetary research and generation-city horizon remain visible in the whole architecture, with grounded local starting points and further involvement chosen along the way.
 
 ---
 

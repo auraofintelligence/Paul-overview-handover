@@ -20,6 +20,7 @@
 
 - [People and public responsibilities](https://github.com/auraofintelligence/Paul-overview-handover/wiki/People-and-public-responsibilities)
 - [Mayoral options and personal agency](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mayoral-options-and-personal-agency)
+- [Travel agency and the chaos oracle](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle)
 - [Transport energy and material capability](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Transport-energy-and-material-capability)
 - [Disaster resilience and generation cities](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Disaster-resilience-and-generation-cities)
 - [Observation science and the Solar Swarm](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Observation-science-and-the-Solar-Swarm)

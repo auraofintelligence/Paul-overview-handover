@@ -1,16 +1,16 @@
-The wiki has a complete chapter order and several shorter routes. Choose a route according to the conversation you are preparing for. Each chapter links back to the main record.
+This is CYOA, Choose Your Own Adventure, from the get go. Read, question, compare, follow a connection or leave a path alone. The invitation and exploration are non-binding. The routes below are possible starting points, and each chapter links back to the main record.
 
-## For Paul before a first conversation
+## A possible path into our conversation
 
 Read [The invitation to Paul](https://github.com/auraofintelligence/Paul-overview-handover/wiki/The-invitation-to-Paul), [Where we met and Bruce Mau](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Where-we-met-and-Bruce-Mau), [The whole system](https://github.com/auraofintelligence/Paul-overview-handover/wiki/The-whole-system), [Mutual Futures](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mutual-Futures) and [Making the handover work](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Making-the-handover-work).
 
-This gives the personal beginning, the present invitation, the central economic proposal and a practical way to explore the relationship. The Genesis and P4A invitations then have their own chapters for direct discussion.
+This route gives the personal beginning, the present invitation, the central economic proposal and a practical way to explore the relationship. Genesis and P4A also have their own paths. You keep doing your usual work and chooses whichever threads interest you.
 
 ## For council and local participants
 
 Read [People and public responsibilities](https://github.com/auraofintelligence/Paul-overview-handover/wiki/People-and-public-responsibilities), [Ready S.E.T., shared work and computing](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Ready-SET-shared-work-and-computing), [Minjerribah sites and cultural relationships](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Minjerribah-sites-and-cultural-relationships), [Culture, screens and public participation](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Culture-screens-and-public-participation) and [Current position and open decisions](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Current-position-and-open-decisions).
 
-For the mayoral question, add [Mayoral options and personal agency](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mayoral-options-and-personal-agency). For transport or infrastructure, add [Transport, energy and material capability](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Transport-energy-and-material-capability).
+For the mayoral question, explore [Mayoral options and personal agency](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mayoral-options-and-personal-agency). For the travelling life and changing opportunities, explore [Travel agency and the chaos oracle](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle). For transport or infrastructure, explore [Transport, energy and material capability](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Transport-energy-and-material-capability).
 
 ## For the wider horizon
 
@@ -33,7 +33,9 @@ Personal recollections are identified as recollections. Proposed arrangements ar
 | Alignment | Work on the relationship between a system's behaviour, human intentions, values and consequences |
 | Aura | The developing personal intelligence environment and related family of projects |
 | C-Hour | One verified hour of voluntary human contribution, with no fixed financial value or redemption promise |
+| Chaos oracle | A developing approach in which algorithms alter priorities as circumstances and opportunities change, with room for serendipity and the traveller's own choice |
 | Co-design | Developing a proposal with the people who use, carry or are affected by it |
+| CYOA | Choose Your Own Adventure: optional paths from the first step, with non-binding exploration |
 | Cultural authority | The actual entitlement and responsibility to decide about particular cultural knowledge and its use |
 | Cultural Intelligence Node | The proposed combination of local computing, people, records, learning and shared work |
 | GAJRA Earth | Global Association for Joyful Responsible Abundance on Earth, a proposed network of locally rooted associations |
@@ -44,7 +46,7 @@ Personal recollections are identified as recollections. Proposed arrangements ar
 | JRA | Joyful Responsible Abundance, the programme's guiding inquiry into worthwhile lives, consequences and shared capability |
 | Living twin | A developing representation of a place and its processes, updated through selected records and observations |
 | Mutual Futures | The central shared-ownership, succession, livelihood, learning and time proposal |
-| P4A | The civic and democratic workbench and movement proposal at p4a.xyz |
+| P4A | Purple Party for Australia: currently a website and public civic workbench, with an objective to seed and trigger a national Australian Cyber Republic referendum on or before 2031 |
 | Ready S.E.T. | Sustainable Employment and Training, the proposed cooperative work and capability layer |
 | SI | Superintelligence, used here for a possible future capability substantially beyond present systems |
 | Truth Engine | A proposed, research-stage approach to self-understanding and calibrated interpretation; its accuracy remains to be established |
@@ -54,9 +56,9 @@ Personal recollections are identified as recollections. Proposed arrangements ar
 
 ## Returning to the purpose
 
-The proposed relationship is simple to state even though the programme is broad: Paul helps carry a viable local expression with other willing people, while I continue developing the wider work under an agreement that preserves my agency and supports my contribution.
+The proposed relationship is simple to state even though the programme is broad: You keep doing your usual work and, if interested, gains a new stream of opportunities, systemic targets and whole-system architectures with grounded local starting points. I continue developing the wider work and following the evolving choices of my chaos oracle.
 
-The next conversation is about whether that relationship interests him and what concrete responsibility each of us would choose to accept.
+The next conversation follows whichever thread interests you. Further involvement grows from what people choose to explore and do.
 
 ---
 
