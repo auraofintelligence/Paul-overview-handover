@@ -24,7 +24,9 @@ She represented Queensland in the Senate from 2018 to 2022. Her assistant minist
 
 She was elected Member for Oodgeroo in 2024. Until 24 October 2026, she was Assistant Minister for Finance, Trade, Employment and Training. On **24 October 2026**, she was appointed Minister for Families, Seniors and Disability Services and Minister for Child Safety and the Prevention of Domestic and Family Violence. Natalie Marr was appointed to the assistant ministry. [S13](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s13)
 
-That shift adds a direct connection with the care, family support, disability and community capability parts of the programme. Her previous work remains relevant to the legal, employment, training and national dimensions. My assessment from our engagement is that she is a confident and supportive asset in the work we have discussed. That is my account of the relationship, rather than a formal ministerial commitment to every proposal here.
+My new [children and young people in care proposal](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#children-and-young-people-in-care) gives her child-safety and family responsibilities a specific connection: continuity through care changes, understanding rights, mentors and opportunities for adulthood. It uses Verse Box rather than the adult HBOT programme. The links to [Mutual Futures](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mutual-Futures) also bring experienced business owners and young adults into the same picture through succession, paid mentoring and shared ownership.
+
+Her federal legal and employment history remains relevant to those connections. I've found her confident and supportive in the work we've discussed.
 
 ## Henry Pike: federal representation, disability and mental health
 

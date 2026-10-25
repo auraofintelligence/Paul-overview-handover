@@ -165,6 +165,7 @@ These identifiers point to documents reviewed for this overview, rather than pub
 | D19 | Super-Computers of North Straddie | Earlier computing and capability brainstorming |
 | D20 | AI, Sands and Kardashev Civilization | Earlier material and long-range development brainstorming |
 | D21 | Global Chaos Theory Itinerary, supplied 25 October 2026 | Earlier travel scenarios and priority logic; the current intention is an evolving chaos oracle with changing algorithmic priorities, room for serendipity and openings for Massive Change |
+| D22 | Aura Genesis for Children and Young People in Australian Care, 25 October 2026, 26 pages | [Child and teen pathway](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#children-and-young-people-in-care) through Verse Box, continuity, rights, mentors and opportunities for adulthood; context for Amanda's new portfolio. Supplied proposal, not evidence of established outcomes. |
 
 ---
 

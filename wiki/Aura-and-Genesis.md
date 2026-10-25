@@ -10,7 +10,7 @@ The interface is broader than a single visual model. Voice, text, lists, familia
 
 One current spatial scheme has 2,016 facets, or 4,032 addresses when inside and outside are counted. Those are addresses in a proposed geometry, rather than a limit on how many life records a person may hold. The geometry gives an organising language; it does not prove that human understanding fits a fixed map.
 
-## The full Genesis invitation
+## The full adult Genesis invitation
 
 My invitation to you concerns the full [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), rather than a brief introductory demonstration. The proposed intensive programme combines 60 two-hour HBOT sessions with guided reflection, personal records and the developing Truth Engine. The present material includes 30 chapters and a 60-day reading and learning sequence.
 
@@ -29,6 +29,14 @@ The full protocol envisages camera and microphone recording throughout sessions,
 The Geode is the proposed embodied setting for this intensive work. The current development material explores four paths: adapting an existing seated hard-shell chamber; a geopolymer structure; crystalline, fused-quartz or blended material research; and a more distant structure that integrates computing into advanced material.
 
 These paths have different evidence and engineering demands. A pressure vessel for human occupancy involves structural design, fire precautions, oxygen compatibility, ventilation, communication, emergency access, inspection and maintenance. The TGA's hyperbaric fire advisory and the practice of established clinical services are relevant starting references. [S27](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s27) [S29](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s29)
+
+## Children and young people in care
+
+My 25 October 2026 proposal, *Aura Genesis for Children and Young People in Australian Care*, adapts the approach for care services, carers and adoptive families. A supported [Verse Box](https://github.com/auraofintelligence/aura-verse-box) provides access to a personal Aura through chosen interests, creative projects and reflection. Selected work and memories would remain available through moves between homes or services.
+
+The proposal connects [understanding everyday rights and decisions](https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/index.html) with mentors, learning and preparation for adulthood. [Try Everything Once and Mutual Futures](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mutual-Futures) supply the wider pathway into varied work, livelihoods and shared ownership. [C-Hours](https://github.com/auraofintelligence/Paul-overview-handover/wiki/C-Hours-and-reciprocity) recognise voluntary contribution without monetary value. Local projects around [Brisbane 2032](https://github.com/auraofintelligence/Paul-overview-handover/wiki/The-long-game#a-shared-calendar) offer a shared learning horizon and a continuing civic volunteer network.
+
+This pathway uses no HBOT and does not apply Truth Engine credibility testing to children. Development is proposed with young people, care services, families and cultural partners, with child-safe practice, consent, privacy and appropriate research review. It is proposal material, with no established child-welfare outcomes. [Background document D22](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents).
 
 ## A separate teaching pathway
 
