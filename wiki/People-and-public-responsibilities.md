@@ -34,7 +34,7 @@ Her federal legal and employment history remains relevant to those connections. 
 
 [Henry](https://www.henrypike.com.au/portfolios) is the federal Member for Bowman. Since February 2026 his opposition responsibilities have included Shadow Assistant Minister for Disability and the NDIS and Shadow Assistant Minister for Mental Health. [S14](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s14)
 
-Those responsibilities connect with proposed care services, accessible participation, shared wellbeing, workforce capability and the transition towards more capable AI. As an opposition representative, his role includes representation, policy development and scrutiny. It is distinct from a government funding approval.
+My [adaptive whole of life support proposal](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#adaptive-whole-of-life-support) connects directly with his disability and NDIS responsibilities: accessible communication, supported choices and continuity as care needs change. It begins with a reviewed minimum viable self and includes adults living with younger onset dementia or disability. The proposed [82 Claytons Road care partnership](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Minjerribah-sites-and-cultural-relationships#82-claytons-road) gives that work a local setting. Its emphasis on relationships, meaningful activity and support also gives us relevant ground for conversations about mental health.
 
 ## Kevin Rudd and Milton Dick: wider avenues to explore
 
