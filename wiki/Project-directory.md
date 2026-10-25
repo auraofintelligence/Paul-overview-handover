@@ -1,7 +1,3 @@
-This directory groups the main public work by its role in the whole system. The linked projects keep their own history, source material and development status. Repository dates usually identify a particular build, rather than the beginning of the idea.
-
-The descriptions below explain why a project belongs here. They do not announce an operating partnership or service.
-
 ## History and orientation
 
 | Project | Place in the story |
@@ -34,7 +30,7 @@ The descriptions below explain why a project belongs here. They do not announce 
 | [Global Founder Atlas](https://auraofintelligence.github.io/global-founder-atlas/index.html) | Funding, research, residencies, paid pilots and other opportunities, with a preference for preserving ownership |
 | [Right Place, Right Time](https://auraofintelligence.github.io/right-place-right-time/index.html) | Patronage and support ideas around my mobility and useful work |
 | [Cosmic Nexus connections](https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/connections.html) | Connections among travel, culture, science questions and neighbouring civic projects |
-| [GAJRA Earth concept site](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html) | A separate earlier concept site in the developing GAJRA Earth family |
+| [GAJRA Earth concept site](https://auraofintelligence.github.io/gajra-earth-claude-build/index.html) | A separate earlier concept site in the developing [GAJRA Earth](https://github.com/auraofintelligence/GAJRA-earth-infinity) family |
 
 The [travel and chaos oracle chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains how these tools relate to an evolving life of travel, discovery and opportunities for Massive Change.
 
@@ -71,22 +67,16 @@ The supplied Nine Names Beside the Work document proposes names for several rela
 
 | Name | Proposed association |
 |---|---|
-| Coimas | Travel Oracle and future travel support |
+| Coimas | [Travel Oracle](https://auraofintelligence.github.io/strange-but-true-travel-oracle/) and future travel support |
 | Nenya | Geode-related sports and chamber proposal |
-| Athelas | Care, disability support and research at the proposed 82 Claytons Road partnership |
-| Eärendil | The Solar Swarm observation horizon |
+| Athelas | Care, disability support and research at the proposed [82 Claytons Road](https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/) partnership |
+| Eärendil | The [Solar Swarm](https://auraofintelligence.github.io/virtual-solar-swarm/) observation horizon |
 | Eregion | Making, repair and practical learning |
 | Lórien | A proposed consciousness research setting |
 | Avallónë | The large generation-city horizon |
 | Laurelin | A community wealth fund concept |
 | Elessar | A personal Aura pendant concept |
 | Telperion | A possible further mutual protection and succession concept |
-
-These names are one way to remember the ideas. [The whole system chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/The-whole-system) explains their functional relationships without requiring the reader to learn a separate mythology.
-
-## Finding the next useful source
-
-For public facts about the Mau event, council, law, ministerial changes and the calendar, use [Sources and documents](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents). For an account of the proposed local role, use [Making the handover work](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Making-the-handover-work). For a specific technical or operating question, begin with the relevant project's own current source and the person responsible for developing it.
 
 ---
 

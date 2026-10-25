@@ -10,11 +10,9 @@ The library has an official recording of Mau's lecture, running 1 hour, 8 minute
 - [Read the contemporary announcement and interview](https://www.indesignlive.com/articles/bruce-mau-on-massive-change).
 - [Read the contemporary account after the lecture](https://www.indesignlive.com/articles/designing-our-future-bruce-mau).
 
-The evidence identifies a lecture and workshop programme. The description of the Brisbane visit in this wiki follows that programme rather than treating it as an installation of the entire original museum exhibition.
-
 ## What Massive Change brought into view
 
-The original *Massive Change* book and exhibition grew from work by Bruce Mau, Jennifer Leonard and the Institute without Boundaries. They examined design across systems such as energy, movement, materials, manufacturing, information, cities and living systems. The work widened the question of design beyond the appearance of an individual object. [S04](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s04) [S05](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s05)
+The original *[Massive Change](https://www.brucemaudesign.com/work/massive-change)* book and exhibition grew from work by Bruce Mau, Jennifer Leonard and the Institute without Boundaries. They examined design across systems such as energy, movement, materials, manufacturing, information, cities and living systems. The work widened the question of design beyond the appearance of an individual object. [S04](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s04) [S05](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s05)
 
 One useful implication is that the boundaries of a design problem are themselves a design choice. A transport decision also affects access to work, land use, energy, everyday costs and the conditions for participation. A learning tool affects who gains capability and who owns the resulting knowledge. Those relationships have remained central in my own work.
 
@@ -25,20 +23,6 @@ The Library Board described the Brisbane workshop as the world's first in that n
 My interest in resilience was already about relationships between systems. Floods expose the dependence of a household on roads, power, water, communications, food, public information, neighbours and institutions. A useful response brings those connections into view before the next disruption.
 
 That inquiry later widened into law, personal intelligence, ownership, learning, culture and long-term habitats. The scale increased, while the underlying question continued: how do people understand the systems shaping their lives, gain a meaningful say in them, and build greater capability together?
-
-This is the continuity I want to discuss with you. The current work is the result of years of development since that first conversation. The proposals in this wiki are my work; the history with Mau provides a shared reference for understanding where the inquiry was heading.
-
-## Questions that keep the idea useful
-
-Large design proposals deserve clear questions about people and power. Who defines the problem? Who carries the cost? Who owns the assets? Who decides? What happens when someone disagrees or leaves? What would count as an improvement?
-
-Those questions shape Mutual Futures, the personal information architecture, the proposed cooperative and the handover itself. They also help distinguish a plan people find exciting from an arrangement they choose to maintain.
-
-## Returning to the conversation
-
-I would like to start with the simple human memory: we met while talking about Massive Change, before your first election to council in 2012. The present invitation is to look at what developed from that period and decide whether there is a worthwhile next chapter together.
-
-The next chapter follows the actual sequence of work, including the later 2012-13 legal reading and the community contributions that were often out of public view.
 
 ---
 

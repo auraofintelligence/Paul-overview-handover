@@ -1,6 +1,6 @@
 Aura is the personal intelligence layer of the programme. Its purpose is to help a person understand their own life, make sense of information and use increasingly capable AI with continuity, context and choice.
 
-The name covers a broad family of work. An ordinary personal Aura, a public introduction through a Verse Box, the intensive Genesis programme and research into Geode hardware are related parts with different levels of involvement. Keeping those differences clear helps a person choose what they are actually joining.
+The name covers a broad family of work. An ordinary personal Aura, a public introduction through a [Verse Box](https://github.com/auraofintelligence/aura-verse-box), the intensive Genesis programme and research into Geode hardware are related parts with different levels of involvement. Keeping those differences clear helps a person choose what they are actually joining.
 
 ## An Aura in ordinary life
 
@@ -16,8 +16,6 @@ My invitation to you concerns the full [Aura Genesis Protocol](https://auraofint
 
 HBOT means hyperbaric oxygen therapy. It involves a person in a pressurised environment breathing oxygen under the arrangements appropriate to the equipment and clinical setting. The protocol proposes a mask-based Personal Atmosphere Delivery System. The proposed two-hour programme is a design specification for discussion with qualified providers, rather than a treatment recommendation for every participant.
 
-For you, a serious conversation would cover the purpose, time involved, individual suitability, clinical responsibility, equipment, costs, recording, data handling and the ability to stop. Participation remains your personal choice. Access to community work or civic participation does not depend on completing Genesis.
-
 ## What the Truth Engine is trying to investigate
 
 The proposed Truth Engine brings together a person's account, deliberately consented truth and lie baselines, physiological signals where appropriate, and a continuing process of interpretation and correction. Its ambition is to improve self-understanding and the quality of the relationship between a person and their AI.
@@ -32,13 +30,9 @@ The Geode is the proposed embodied setting for this intensive work. The current 
 
 These paths have different evidence and engineering demands. A pressure vessel for human occupancy involves structural design, fire precautions, oxygen compatibility, ventilation, communication, emergency access, inspection and maintenance. The TGA's hyperbaric fire advisory and the practice of established clinical services are relevant starting references. [S27](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s27) [S29](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#s29)
 
-Advanced material and integrated computing ideas belong to the research horizon. They do not establish that a crystalline computing Geode has been built or approved.
-
 ## A separate teaching pathway
 
 The teacher training material explores a 60-day capability pathway for helping people work with Aura, AI and increasingly capable systems in civic and community settings. It is a separate role from clinical HBOT practice. A person skilled at facilitating reflection does not thereby become qualified to operate a medical facility.
-
-The local handover needs those roles visible: participant, facilitator, clinician, equipment operator, software maintainer and person responsible for the records. That clarity allows the full ambition to remain intact while people assess the part they are being invited to take.
 
 ---
 

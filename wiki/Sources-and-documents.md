@@ -2,10 +2,6 @@ This register separates public evidence, my own project material and supplied ba
 
 Public roles and project status are recorded as at **24 October 2026**. A changing role, law, funding programme or project timetable needs a fresh check when a real decision is made.
 
-The revision of **25 October 2026** explains my CYOA invitation, Choose Your Own Adventure, from the beginning. You continue your usual work and choose which inputs to explore. The invitation and exploration are non-binding.
-
-The same revision records P4A as Purple Party for Australia, with an objective to seed and trigger a national Australian referendum on establishing a Cyber Republic on or before 2031. Its present status is a website and public civic workbench, with no P4A outreach undertaken, no confirmed support from anyone, no party registration and no party members. This is my current account of my work and intention.
-
 ## How the sources are used
 
 The State Library, council, parliament, legislation and other institutional records support the public facts attributed to them. My repositories and websites establish what my projects currently propose or demonstrate. They do not establish an external organisation's agreement.
@@ -169,16 +165,6 @@ These identifiers point to documents reviewed for this overview, rather than pub
 | D19 | Super-Computers of North Straddie | Earlier computing and capability brainstorming |
 | D20 | AI, Sands and Kardashev Civilization | Earlier material and long-range development brainstorming |
 | D21 | Global Chaos Theory Itinerary, supplied 25 October 2026 | Earlier travel scenarios and priority logic; the current intention is an evolving chaos oracle with changing algorithmic priorities, room for serendipity and openings for Massive Change |
-
-The six linked travel projects are collected in the [travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) and [project directory](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Project-directory). Their repository sources were read for this revision. They describe different tools and stages of development. Earlier dates, routes, market-stall descriptions or suggested opportunities in those sources are not treated as a fixed itinerary, completed activity or confirmed partnership.
-
-The 82 Claytons Road proposal, Genesis protocol and other project-specific papers are connected through the [Project directory](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Project-directory). Third-party books supplied during research remain third-party works and are not reproduced in this repository.
-
-## Reading older material fairly
-
-The current explanation keeps the ambition while correcting inherited overstatements. In particular, C-Hours are reciprocal; the Truth Engine is research-stage; health outcomes are not guaranteed; instantaneous quantum communication is not an available capability; and extreme-event hypotheses retain their unresolved questions.
-
-The useful way to read the archive is as a developing body of work with identifiable revisions. This wiki supplies the coherent current account and a route back to the evidence.
 
 ---
 

@@ -1,6 +1,6 @@
 The international proposal is for Australia to help countries cooperate through the AI and superintelligence transition, shared resilience work and peaceful development. It includes middle powers, small states and the superpowers in the same field of relationships.
 
-My current statement of that direction is A Fair Go in the Age of Intelligence, the refined personal contribution prepared for UNGA 81 in September 2026. It invites the development of GAJRA Earth, the Global Association for Joyful Responsible Abundance on Earth, through locally rooted associations. It is my proposal, rather than a United Nations programme or an agreement already made by governments. [D04](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents)
+My current statement of that direction is A Fair Go in the Age of Intelligence, the refined personal contribution prepared for UNGA 81 in September 2026. It invites the development of [GAJRA Earth](https://github.com/auraofintelligence/GAJRA-earth-infinity), the Global Association for Joyful Responsible Abundance on Earth, through locally rooted associations. It is my proposal, rather than a United Nations programme or an agreement already made by governments. [D04](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents)
 
 ## A fair go as an organising idea
 
@@ -14,15 +14,13 @@ Joyful Responsible Abundance asks what makes life worth living, who and what we 
 
 The proposed associations would explore those meanings through reflection, public dialogue and practical work. They could share methods, evidence, learning and joint projects while retaining their own judgement. The present direction gives no central association a general veto over the others. [D04](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents)
 
-The garland image behind gajra is useful: connection lets the distinct parts form something together. The important practical work is deciding how a real association is governed, how it handles money and records, who it represents, and how it resolves disagreement. The [GAJRA Earth project](https://github.com/auraofintelligence/GAJRA-earth-infinity) is developing public material around that direction; it is not evidence that the proposed worldwide association has already been registered.
+A gajra is a flower garland: distinct parts connected without becoming identical. The [GAJRA Earth project](https://github.com/auraofintelligence/GAJRA-earth-infinity) develops the proposed international association.
 
 ## Human values and AI alignment
 
-Before asking AI to align with human values, people need richer ways to examine what they value, where they differ and how their actions affect others. Aura offers a personal setting for reflection. Public gatherings and P4A offer shared settings. Mutual Futures gives the productive and distributive questions an economic form.
+Before asking AI to align with human values, people need richer ways to examine what they value, where they differ and how their actions affect others. Aura offers a personal setting for reflection. Public gatherings and [P4A](https://p4a.xyz/) offer shared settings. [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/) gives the productive and distributive questions an economic form.
 
 The intended result is a living, permissioned understanding of human difference and common possibilities. It does not presume that everyone converges on one authorised global value system.
-
-This social work complements technical AI safety. Testing models, limiting dangerous capabilities, understanding failures and keeping institutions accountable remain substantial tasks. A values process alone does not demonstrate control of a superintelligent system. Equally, technical capability alone does not decide who benefits or what people want their lives to become.
 
 ## Practical common work
 
@@ -35,19 +33,11 @@ Several fields offer a reason to cooperate despite wider political disagreements
 - Public evidence, parliamentary exchange and ways to understand decisions across institutions.
 - Cultural work that makes other people's hopes, circumstances and concerns more intelligible.
 
-The supplied background papers explore AUKUS-related choices, the Pacific, Fiji-Australia relationships, peaceful space development and partnerships involving Indigenous communities. They are proposal material with their own assumptions and dates. The current invitation is best carried through clearly defined work with willing partners. [D10](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents) [D11](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents) [D12](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents) [D13](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents) [D14](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents)
+The supplied background papers explore AUKUS-related choices, the Pacific, Fiji-Australia relationships, peaceful space development and partnerships involving Indigenous communities. They are proposal material with their own assumptions and dates. The current invitation is best carried through clearly defined work with willing partners. [D10](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents) D11 D12 D13 D14
 
 ## Why Queensland relationships matter
 
-Kevin Rudd's Asia Society role and Milton Dick's IPU presidency create prospective avenues for different parts of the conversation. Asia Society is relevant to regional dialogue and understanding. The IPU is relevant to exchange between parliaments. Neither relationship is established by mentioning it here.
-
-Brisbane 2032 also creates a long period of international attention. The useful contribution would be work people can actually inspect: a local ownership example, a cultural programme, practical civic tools, accessible learning or a well-framed scientific collaboration.
-
-## The relationship with the Redlands handover
-
-The local programme gives the global argument a place to learn. The international programme offers relationships and knowledge that may help local work. Each keeps its own responsibilities and resources.
-
-This is why my preference is to share useful local possibilities while I develop the wider network. You would keep doing your usual work and choose which inputs to explore. My chaos oracle would help alter travel priorities as openings for Massive Change emerge, while leaving room for serendipity. Useful knowledge and connections could then flow back into grounded local opportunities. [The travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains that relationship.
+[Kevin Rudd](https://kevinrudd.com/about)'s Asia Society role and [Milton Dick](https://www.ipu.org/news/press-releases/2026-10/milton-dick-elected-president-ipu)'s IPU presidency create prospective avenues for different parts of the conversation. Asia Society is relevant to regional dialogue and understanding. The IPU is relevant to exchange between parliaments. Neither relationship is established by mentioning it here.
 
 ---
 
