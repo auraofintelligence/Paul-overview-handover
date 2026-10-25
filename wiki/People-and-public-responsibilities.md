@@ -26,6 +26,8 @@ She was elected Member for Oodgeroo in 2024. Until 24 October 2026, she was Assi
 
 My new [children and young people in care proposal](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#children-and-young-people-in-care) gives her child-safety and family responsibilities a specific connection: continuity through care changes, understanding rights, mentors and opportunities for adulthood. It uses Verse Box rather than the adult HBOT programme. The links to [Mutual Futures](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Mutual-Futures) also bring experienced business owners and young adults into the same picture through succession, paid mentoring and shared ownership.
 
+The [adaptive whole of life support proposal](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#adaptive-whole-of-life-support) extends the connection to her seniors and disability responsibilities. Its local setting includes the proposed [82 Claytons Road care partnership](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Minjerribah-sites-and-cultural-relationships#82-claytons-road).
+
 Her federal legal and employment history remains relevant to those connections. I've found her confident and supportive in the work we've discussed.
 
 ## Henry Pike: federal representation, disability and mental health

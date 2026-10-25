@@ -166,6 +166,8 @@ These identifiers point to documents reviewed for this overview, rather than pub
 | D20 | AI, Sands and Kardashev Civilization | Earlier material and long-range development brainstorming |
 | D21 | Global Chaos Theory Itinerary, supplied 25 October 2026 | Earlier travel scenarios and priority logic; the current intention is an evolving chaos oracle with changing algorithmic priorities, room for serendipity and openings for Massive Change |
 | D22 | Aura Genesis for Children and Young People in Australian Care, 25 October 2026, 26 pages | [Child and teen pathway](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#children-and-young-people-in-care) through Verse Box, continuity, rights, mentors and opportunities for adulthood; context for Amanda's new portfolio. Supplied proposal, not evidence of established outcomes. |
+| D23 | Aura of Intelligence for Adaptive Whole of Life Support, 25 October 2026, 28 pages | [Adult support pathway](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Aura-and-Genesis#adaptive-whole-of-life-support): minimum viable self, dementia, disability, aged care, memory palaces and planned clinical software development. |
+| D24 | 82 Claytons Road Anglican Partnership Proposal, supplied version 9, document dated 22 September 2026, 11 pages | [Land gift and care partnership](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Minjerribah-sites-and-cultural-relationships#82-claytons-road), proposed community fund, dementia support, intergenerational learning and research. |
 
 ---
 

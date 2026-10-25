@@ -10,6 +10,14 @@ The interface is broader than a single visual model. Voice, text, lists, familia
 
 One current spatial scheme has 2,016 facets, or 4,032 addresses when inside and outside are counted. Those are addresses in a proposed geometry, rather than a limit on how many life records a person may hold. The geometry gives an organising language; it does not prove that human understanding fits a fixed map.
 
+## Adaptive whole of life support
+
+My *Aura of Intelligence for Adaptive Whole of Life Support* proposal brings together younger onset dementia, disability and aged care. Onboarding starts by recording a **minimum viable self**: the person's chosen history, communication, relationships, routines, intentions and information boundaries, reviewed with them and corrected as understanding develops.
+
+Proposed uses include accessible communication, personalised activities, care handovers and memory palaces preserving familiar homes and their associated stories through a move. Everyday support is separate from the intensive adult Genesis programme below.
+
+The [Matrix Studio prototype](https://auraofintelligence.github.io/aura-matrix-studio/) already supports editable records, visual organisation, local saving and exports. Secure care integration and clinical validation remain development work. The planned medical software pathway identifies the intended medical functions, then develops and evaluates them through engineering, clinical studies, ethics review and the applicable Software as a Medical Device process. [Background document D23](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Sources-and-documents#supplied-background-documents).
+
 ## The full adult Genesis invitation
 
 My invitation to you concerns the full [Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/), rather than a brief introductory demonstration. The proposed intensive programme combines 60 two-hour HBOT sessions with guided reflection, personal records and the developing Truth Engine. The present material includes 30 chapters and a 60-day reading and learning sequence.
