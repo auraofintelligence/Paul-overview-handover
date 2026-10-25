@@ -62,17 +62,13 @@ The [P4A chapter](https://github.com/auraofintelligence/Paul-overview-handover/w
 
 ## My freedom to follow the wider possibilities
 
-I want a viable income, a place to live, creative and research time, and freedom to travel through the changing priorities of my chaos oracle. Emerging openings for Massive Change and serendipity are part of that life.
+I have plenty of avenues for earning through my own work. I want the freedom to develop them, keep researching and creating, and travel through the changing priorities of my chaos oracle. Emerging openings for Massive Change and serendipity are part of that life.
 
-The [travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains the connected tools and the evolving choice of where to be. A useful local relationship would let me share what I discover while people here continue the things they choose to carry.
+The [travel chapter](https://github.com/auraofintelligence/Paul-overview-handover/wiki/Travel-agency-and-the-chaos-oracle) explains the connected tools and the evolving choice of where to be. As I explore those possibilities, I want to share relevant ideas and connections with you so they remain connected to grounded local opportunities.
 
-My ongoing contribution also needs a practical way to be supported. Paid design work, a commission, patronage, licensing or another suitable arrangement would depend on the actual opportunity. The discussion starts with what is interesting and useful.
+## Staying in touch
 
-## Where the handover begins
-
-We could start with a few examples connected to your present interests and see which threads you want to follow. You might explore them yourself, point out a connection or invite somebody else into a conversation.
-
-The overview provides the map and the source trail. The next adventure is open.
+The next step I'd like is a conversation with you about this work, followed by a direct line where I can share relevant opportunities and hear back reasonably promptly. That lets us keep the local and wider possibilities connected as they develop.
 
 ---
 

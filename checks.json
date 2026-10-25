@@ -1,14 +1,14 @@
 {
-  "edition": "2026-10-24",
+  "edition": "2026-10-25",
   "chapters": 25,
   "navigation_files": 2,
-  "words_in_chapters": 21996,
+  "words_in_chapters": 21940,
   "public_source_entries": 29,
   "background_documents": 21,
   "internal_targets_checked": 25,
   "sha256_by_page": {
     "Home": "4969f89b7288db0cd9186699424288ef518061665d8be82d3d12f1f941a440da",
-    "The-invitation-to-Paul": "1ef4b4521102de4eca7d201bcbebddd1100833c041bb0a022236ffca42033fce",
+    "The-invitation-to-Paul": "ba4cb4fce71c2b3690ee34e7f44ce311cbf13421ceae15ea4228ffaa66a6e2a0",
     "Where-we-met-and-Bruce-Mau": "310abc6eba66a434add81c24e09602b04d4caa61ee74504a17bb89db0cf78a0b",
     "The-path-from-2011-to-now": "5e5f6efeea0cb93c292f05fd6448141c969b9d8a701d0e17403548603c779a54",
     "The-whole-system": "6d193ac90153ed266a542a1a63ce12cf846b6c04af0bdfd67cf199b11c34f3f7",
@@ -21,14 +21,14 @@
     "P4A-law-and-democratic-participation": "d9a0242ef603fae57d443b10b15c679642a75094b174cf22a3d33819d7b6a53f",
     "People-and-public-responsibilities": "d15753b37a2e419883cdf7f90dabb51d350837a6bb13c1470019db919e029b4e",
     "Mayoral-options-and-personal-agency": "cb7c6972ab5f9464444f9f5624259802e73dbc4daf2f0e109c46df69cdf3a385",
-    "Travel-agency-and-the-chaos-oracle": "2caf416fede921280a95b4b87672a9f00a3873d96d41bc76698fcbb2e3f7bda9",
+    "Travel-agency-and-the-chaos-oracle": "0b9a6bba471d02df3e982e92a70acbc8aab0a8e78cd8ca149cad40857809a54e",
     "Transport-energy-and-material-capability": "7c4f8b9a5ba31c555884a98295bf8b8453b389ee71fb06d6a7836d3e48c3fae4",
     "Disaster-resilience-and-generation-cities": "e3b5c45b55baec79ed9b3d0f5b881ae03d38e95de847e923b04d00c3311e60e5",
     "Observation-science-and-the-Solar-Swarm": "8f05fb2f579d6a0d4ec093fb2b0acc963d497980ddc0b2d63bcc006b4046d623",
     "Australia-and-international-cooperation": "05265d9c497e39bdcaf124265387c853c5c91427c236115daf7fabb4ebc16b71",
     "The-long-game": "d2e850f29797b39d27dc6eca65b6c21a4a34eef7d48ed9c27906ff528d4cb29f",
-    "Making-the-handover-work": "c6299b7bec4029620c13d511a9c51bfa371d1db786c060a33dd75db7b34f5491",
-    "Current-position-and-open-decisions": "5546ab7327920e0d2e1149f4d086fd469113e5b1cff494f62d62aa1c7141f75d",
+    "Making-the-handover-work": "3e382e6595d2363fe483babd1837c04c336c464aae21575d9ec078a83f618d58",
+    "Current-position-and-open-decisions": "5d1204c080bc45373de1180bba62399aeba4b1a639b23dab5954486ea8a5692a",
     "Project-directory": "f0f182ee3178d68ae6f3055a183e24bca6acd561631123e4abc5140bdaa5be43",
     "Sources-and-documents": "eb102619b9a28631fce0aae2e7d55b6385f3116b6676d66747aef372737e54d3",
     "Reading-routes-and-glossary": "2c2fd7a5305cce7be4d884fa680f3336dfdb9f09dea18b27ddedd205560b7c48",
@@ -36,3 +36,4 @@
     "_Footer": "a9ad8e6b0d7c6fa934df7c3c820126291ef7bbd2cacd9c527973f753d8fe8333"
   }
 }
+

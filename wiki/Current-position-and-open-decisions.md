@@ -27,7 +27,6 @@ The [Open Record](https://github.com/auraofintelligence/open-record-luke-nathan-
 | Would a stream of inputs be useful? | A format and frequency that suit your interest and usual work |
 | What happens if people want to try something? | Practical next steps shaped around the activity they choose |
 | Who carries a continuing activity? | People willing to carry its actual work, with the support it needs |
-| How does my ongoing work remain viable? | Suitable income and support that preserve my research, creative work and evolving travel choices |
 | Are you interested in full Genesis? | Your informed personal decision, followed by the required clinical and practical arrangements |
 | How would you engage with P4A? | A defined level of involvement and an accurate public description |
 | Which sites and partners are ready? | Place-specific conversations with the actual people entitled to decide |

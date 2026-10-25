@@ -42,7 +42,7 @@ Your interest in any part would be yours to define. Reading, questioning or tryi
 
 ## The life I want to preserve
 
-I want an income, a place to live, time for art and research, and the freedom to travel the world in a way that might look chaotic from the outside. My Travel Oracle is being developed around algorithms that alter priorities as circumstances, opportunities and my own interests change, while leaving room for serendipity.
+I have plenty of avenues for earning through my own work. I want the freedom to pursue them, keep making art and researching, and travel the world in a way that might look chaotic from the outside. My Travel Oracle is being developed around algorithms that alter priorities as circumstances, opportunities and my own interests change, while leaving room for serendipity.
 
 Part of that inquiry is where the right people, timing and systemic opportunities might come together for Massive Change. A conversation, invitation, research opening or cultural experience might change where I go next. I want room to follow that opening, stay longer somewhere worthwhile or change direction. The choice remains mine.
 

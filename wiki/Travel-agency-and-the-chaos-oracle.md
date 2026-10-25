@@ -49,7 +49,7 @@ You would keep doing your usual work. If you choose to explore this architecture
 
 The invitation is Choose Your Own Adventure from the beginning. You would choose what to read, question, share or pursue. An input is a possibility to consider. Interest and exploration remain non-binding.
 
-My continuing contribution needs a viable income and a realistic way of staying in touch across places and time zones. Where people choose to carry a local activity, its everyday work would have the people and support it needs while I follow the wider opportunities.
+I have plenty of avenues to earn through my own projects and work. I want to develop those independently while keeping a direct line with you across places and time zones. That gives us a way to exchange relevant opportunities as they arise.
 
 ## Reading the older itinerary material
 
